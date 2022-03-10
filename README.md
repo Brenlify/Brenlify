@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brenley Ian Robles</h1>
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=A+vehemen+Frontend+developer;A+live+stream+specialist;A+graphic+designer&font=Fira%20Code&center=true&width=380&height=50">
-</p>
+<h3 align="center">A vehement frontend developer, streamer, and graphic designer.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brenlify&label=Profile%20views&color=0e75b6&style=flat" alt="brenlify" /> </p>
 
 - 🔭 I’m currently working on **Emergency Preparedness System**
 
